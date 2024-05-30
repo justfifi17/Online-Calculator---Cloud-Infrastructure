@@ -8,7 +8,10 @@ This simple, grid-based calculator has a clear display and responsive buttons fo
 
 ### In this project...
 - I have used the CSS Grid system for better design flexibility and more appealing visuals. 
-- I have also used the eval() javascript function to perform/manage the arithmetic operations. 
+- I have also used the eval() javascript function to perform/manage the arithmetic operations.
+
+  More Project Description is prepared on the following Google Slides link (https://docs.google.com/presentation/d/1kx1DU0Fj_zSapRDzMKISM5s-DoWcC8uQLpvM4kkOguY/edit?usp=sharing)
+  
   
 
   
