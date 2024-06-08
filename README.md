@@ -1,4 +1,4 @@
-## Simple Calculator Using Javascript
+## Simple Online Calculator Using JavaScript
 
 ### Brief Introduction to the Work
 This simple, grid-based calculator has a clear display and responsive buttons for digits, operations, and special functions. The implementation focuses on usability and efficiency, ensuring users can perform calculations quickly and accurately.
